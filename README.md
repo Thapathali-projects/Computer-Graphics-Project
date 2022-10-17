@@ -1,4 +1,5 @@
 # StrikeFall
-Created as Computer Graphics project for Bachelor's Level (3rd year:1st part)
-Started Date: 2020 Feb
-End Date: 2020 March
+
+Created as Computer Graphics project in Codeblocks with Opengl. </br> </br>
+Started Date: 2020 Feb </br>
+End Date: 2020 March </br>
